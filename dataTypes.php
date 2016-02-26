@@ -13,6 +13,6 @@
   $bool = True;
   $bool2 = False;
   
-  // Array
+  // array of strings
   $months = array(1 => 'January', 'February', 'March');
 ?>
