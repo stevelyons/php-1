@@ -1,5 +1,6 @@
 
 <?php
+// do first
 do {
     if ($i < 5) {
         echo "i is not big enough";
