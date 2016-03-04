@@ -1,6 +1,6 @@
  <?php
 $favcolor = "red";
-
+// switch statement 
 switch ($favcolor) {
     case "red":
         echo "Your favorite color is red!";
