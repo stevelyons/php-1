@@ -1,7 +1,7 @@
 <?php
   $x = 2;
-
-while($x <= 5) {
+  // start while loop
+  while($x <= 5) {
     echo "The number is: $x <br>";
     $x++;
 }
