@@ -1,10 +1,13 @@
  <?php
 $favcolor = "red";
 // switch statement 
-switch ($favcolor) {
+switch ($favcolor) 
+{
+    // first case 
     case "red":
         echo "Your favorite color is red!";
         break;
+    // second case
     case "blue":
         echo "Your favorite color is blue!";
         break;
