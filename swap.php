@@ -7,7 +7,7 @@
   echo $one;
   echo $two;
   
-  // swap
+  // swap with temporary variable 
   $temp = $one;
   $one = $two;
   $two = $temp;
