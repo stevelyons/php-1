@@ -1,6 +1,6 @@
 
 <?php
-// perform the statement first, then do the rest 
+// the do statement will always be perform once, thne the while loop  
 do {
     if ($i < 5) {
         echo "i is not big enough";
