@@ -1,6 +1,6 @@
 <?php
   // php supports several datatypes
-  // String
+  // String are text 
   $string = "This is a string";
   
   // Integer
