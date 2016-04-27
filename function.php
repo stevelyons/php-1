@@ -2,7 +2,7 @@
 
 $a=10;
 $b=13;
-// perform function add with two parameters
+// perform the function add() with two parameters
 function add($a,$b){
     echo "The Sum of $a+$b= ", $a+$b, "<br />";
     $a=5;
