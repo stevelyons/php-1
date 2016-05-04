@@ -3,7 +3,7 @@ $favcolor = "red";
 // switch statement 
 switch ($favcolor) 
 {
-    // first case 
+    // first case to check 
     case "red":
         echo "Your favorite color is red!";
         break;
