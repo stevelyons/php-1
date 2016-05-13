@@ -1,4 +1,4 @@
 <?php
-// say hello world
+// First PHP program 
 echo 'hello world';
 ?>
