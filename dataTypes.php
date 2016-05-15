@@ -1,5 +1,5 @@
 <?php
-  // php supports several datatypes
+  // php supports different datatypes
   // datatypes are important for what you are trying to display
   // String are text 
   $string = "This is a string";
