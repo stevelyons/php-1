@@ -1,5 +1,5 @@
 <?php
-// string variable 
+// variables represent data  string variable 
 $string = "This is a string";
 // integer variable 
 $number = 10;
