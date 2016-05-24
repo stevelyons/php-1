@@ -1,6 +1,6 @@
  <?php
 $favcolor = "red";
-// switch statement 
+// switch statement is an alternative to if statements 
 switch ($favcolor) 
 {
     // first case to check 
