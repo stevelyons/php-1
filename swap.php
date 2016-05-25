@@ -1,5 +1,5 @@
 <?php
-  // swap variable values in php
+  // how to swap two variables
   $one = 1;
   $two = 2;
   
