@@ -1,5 +1,5 @@
 <?php
-  // set the key to later sort by
+  // use a key to later sort array by
   $age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
   arsort($age);
 ?> 
